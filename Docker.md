@@ -22,5 +22,4 @@ Use the following flags
 -e XDG_RUNTIME_DIR=/tmp -e WAYLAND_DISPLAY=$WAYLAND_DISPLAY -e QT_QPA_PLATFORM=wayland -v $XDG_RUNTIME_DIR/$WAYLAND_DISPLAY:/tmp/$WAYLAND_DISPLAY
 ```
 
-
 Note: Disable access when done using `xhost -local:`
