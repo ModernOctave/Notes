@@ -29,7 +29,9 @@ Update the power management as required.
 
 ### Replace suspend with suspend-then-hibernate
 [Manjaro Forum](https://archived.forum.manjaro.org/t/configuring-suspend-then-hibernate/90324)
+
 [Arch Forum](https://archlinux.org.ru/forum/topic/18865/)
+
 [systemmd docs](https://www.freedesktop.org/software/systemd/man/systemd.unit.html)
 ```
 sudo mkdir /etc/systemd/system/systemd-suspend.service.d/
