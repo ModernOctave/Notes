@@ -47,6 +47,10 @@ source ~/catkin_ws/devel/setup.bash
 alias cw='cd ~/catkin_ws'
 alias cs='cd ~/catkin_ws/src'
 alias cm='cd ~/catkin_ws && catkin_make'
+
+export ROS_HOSTNAME=xxx.xxx.xxx.xxx
+export ROS_MASTER=xxx.xxx.xxx.xxx
+export ROS_MASTER_URI=http://$ROS_MASTER:11311
 ```
 
 Source it again
