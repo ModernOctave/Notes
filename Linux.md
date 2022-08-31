@@ -48,3 +48,7 @@ Set the HibernateDelaySec to the required delay. Only a number will be considere
 
 ### Finer sleep timeout settings (GNOME)
 Go to `org.gnome.settings-daemon.plugins.power` in dconf editor and set the timeouts as required.
+
+# Miscellaneous
+## Unable to mount NTFS drive
+[Ask Ubuntu](https://askubuntu.com/questions/794187/unable-to-mount-ntfs-drive)
